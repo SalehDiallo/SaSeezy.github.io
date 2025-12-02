@@ -46,36 +46,28 @@ My background includes academic research, freelance web development, and hands-o
 ---
 
 ## 📂 Featured Projects
-
-### 🔹 Validité des Cartes Bancaires — Java
-
-📌 **Projet personnel — Vérification automatique de numéros de cartes bancaires**  
-🔗 **Code source :** [https://github.com/USERNAME/Validite-Cartes-Bancaires](https://github.com/SalehDiallo/Validit-CartesBancaires.git) *(à remplacer)*
+### 🔹 Credit Card Validity Checker — Java 
+🔗 **Source code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git) **
 
 ---
-
-### 📝 Description  
-Application Java permettant de valider des cartes bancaires (Visa, MasterCard, American Express) à l’aide d’une architecture orientée objet et de la méthode de Luhn.
-
+Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
 ---
+#### 🚀 Key Features
 
-### 🚀 Fonctionnalités principales
-
-- Vérification de la structure des numéros selon les règles propres à chaque type de carte.  
-- Implémentation de la **méthode de Luhn**.  
-- Architecture basée sur le **pattern Strategy**, avec :
-  - une classe abstraite `Verificateur`
-  - `VisaVerificateur`
-  - `MasterCVerificateur`
-  - `AmerExpVerificateur`
-- Classe `Banque` gérant la logique de sélection du bon vérificateur.  
-- Classe `Test` simulant plusieurs cas d'utilisation.
+- Validates card number structure based on each card type’s specific rules.  
+- Implements the **Luhn algorithm** for checksum verification.  
+- Designed using the **Strategy pattern**, including:  
+  - abstract class `Verificateur`  
+  - `VisaVerificateur`  
+  - `MasterCVerificateur`  
+  - `AmerExpVerificateur`  
+- `Banque` class that automatically selects the correct verifier.  
+- `Test` class providing multiple usage scenarios.
 
 ---
 
 ### 🔧 Tech Stack  
 `Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
-
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
