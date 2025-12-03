@@ -47,26 +47,9 @@ My background includes academic research, freelance web development, and hands-o
 
 ## 📂 Featured Projects
 ### 🔹 Credit Card Validity Checker — Java 
-🔗 **Code:**[Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)**
-
----
 
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
-
----
-#### 🚀 Key Features
-
-- Validates card number structure based on each card type’s specific rules.  
-- Implements the **Luhn algorithm** for checksum verification.  
-- Designed using the **Strategy pattern**, including:  
-  - abstract class `Verificateur`  
-  - `VisaVerificateur`  
-  - `MasterCVerificateur`  
-  - `AmerExpVerificateur`  
-- `Banque` class that automatically selects the correct verifier.  
-- `Test` class providing multiple usage scenarios.
-
----
+🔗 **Code:**[Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)
 
 ### 🔧 Tech Stack  
 `Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
@@ -74,6 +57,7 @@ Java application that validates credit cards (Visa, MasterCard, American Express
 ---
 
 ### 🔹 Introduction to Numpy library : **[Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)**
+
 ### 🔧 Tech Stack  
 `Python` • `Numpy`
 
