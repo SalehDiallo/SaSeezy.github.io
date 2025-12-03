@@ -46,7 +46,7 @@ My background includes academic research, freelance web development, and hands-o
 ---
 
 ## 📂 Featured Projects
-### 🔹 Credit Card Validity Checker — Java 
+### 🔹 Credit Card Validity Checker 
 
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
 🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)
@@ -73,6 +73,24 @@ Loading the Iris dataset, splits it, selects important features using chi-square
 `Python` • `sklearn`
 
 ---
+
+### 🔹 Statistical Modeling and Regression Analysis with Python
+This task explores statistical simulations, kernel density estimation, Gaussian basis ridge regression, bias-variance analysis, and polynomial regression with cross-validation to visualize, model, and evaluate function approximations and predictions.
+
+🔗 **Code:** [Statistical Modeling and Regression Analysis](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_H24_Devoir_1_Gabarit.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `matplotlib` • `numpy`
+
+---
+
+### 🔹 k-Nearest Neighbors (k-NN) Classification with Minkowski Distance
+This task implements k-NN classification using the Minkowski distance metric. It computes distances between vectors, predicts labels for the Iris dataset, and evaluates training and testing error rates.
+
+🔗 **Code:** [k-NN](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_Lab1_02_1_NN.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `numpy`
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
