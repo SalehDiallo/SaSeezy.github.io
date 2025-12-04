@@ -86,12 +86,48 @@ This task explores statistical simulations, kernel density estimation, Gaussian 
 ### 🔹 k-Nearest Neighbors (k-NN) Classification with Minkowski Distance
 This task implements k-NN classification using the Minkowski distance metric. It computes distances between vectors, predicts labels for the Iris dataset, and evaluates training and testing error rates.
 
-🔗 **Code:** [k-NN](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_Lab1_02_1_NN.ipynb)
+🔗 **Code:** [k-NN 1](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_Lab1_02_1_NN.ipynb)
 
 #### 🔧 Tech Stack  
 `Python` • `numpy`
 
 ---
+
+### 🔹 k-NN, Parzen Windows, Confusion Matrices & Decision Boundaries on Iris
+
+This task implements k-NN and Parzen classifiers, computes confusion matrices, visualizes decision boundaries, evaluates test errors, and explores distance metrics and neighborhood-based classification on the Iris dataset.
+
+🔗 **Code:** [k-NN 2](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_Lab2_Neighborhood_Classifiers_and_decision_boundaries.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `numpy`• `matplotlib`
+
+---
+
+### 🔹 Loss Functions, Linear Models & Gradient Descent on the Iris Dataset
+
+This task implements and visualizes multiple loss functions, preprocesses the Iris dataset for binary classification, and builds linear classifiers (Linear Regression, Perceptron, SVM, Logistic Regression). It includes decision boundary plotting, full-batch gradient descent training, error-rate evaluation, and learning-curve visualization.
+
+**Code:** [Gradient Descent](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_Lab4_EN_Linear_Classifiers_and_Gradient_Descent.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `numpy`• `matplotlib`
+
+---
+
+### 🔹 Decision Tree From Scratch with Entropy, Information Gain & Decision Boundary Visualization
+
+This project builds a full decision tree classifier **from scratch** using entropy and information gain.  
+It includes synthetic data generation, training/test split, tree construction with unique node IDs, prediction functions, Graphviz visualization, and detailed 2D decision-boundary plotting for interpretability.
+
+**Code:** [Decision Tree](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_decision_trees.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `numpy`• `matplotlib`• `graphviz` • `pygraphviz`• `networkx` 
+
+---
+
+### 🔹
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
