@@ -264,14 +264,15 @@ Focus: Software engineering
 ## 🌍 Languages
 - **French** (advanced)  
 - **English** (advanced)  
-- **Mandarin** (Intermediate)
+- **Mandarin** (intermediate)
 - **Fulani** (native)
 - **Wolof** (advanced)
 
 ---
 
 ## 📫 Contact
-📧 *mamadou.saliou.diallo.5@umontreal.ca*  
+*mamadou.saliou.diallo.5@umontreal.ca*  
+
 ---
 
 ⭐ *If you like my work, feel free to star my repositories!😁*
