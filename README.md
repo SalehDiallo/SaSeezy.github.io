@@ -255,7 +255,7 @@ Focus: AI, Data Science, Computer Vision, Machine Learning
 Focus: Computer vsion, Object detection & recognition, Deep learning
 
 **Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)**  — *Senegal* <br>
-Focus: Software enginnering
+Focus: Software engineering
 
 
 
