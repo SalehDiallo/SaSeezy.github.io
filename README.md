@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mamadou Saliou Diallo  
 ### AI Engineer | Data Scientist | Software Developer  
-🎓 Master's in Computer Science – Université de Montréal  
+🎓 Master's in Computer Science – University of Montreal  
 📍 Based in Montreal, QC  
 🌐 Bilingual: French & English  
 
