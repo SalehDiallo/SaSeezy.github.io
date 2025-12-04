@@ -67,7 +67,7 @@ Senportable is an Android application that retrieves the user’s IP address, la
 `Android (Java/Kotlin)` • `Google Maps SDK for Android` • `Google Play Services` • `IP Geolocation API` • `GPS & Network Providers` • `Gradle`
 
 ### 🔹 2D Neural Radiance Field (NeRF)
-This project implements a 2D Neural Radiance Field (NeRF) in Mathematica. It generates a neural representation of a scene from multiple 2D observations, learns a continuous radiance function, and reconstructs or synthesizes new views. The notebook includes data preprocessing, neural network training, visualization, and rendering.
+This project implements a 2D Neural Radiance Field (NeRF) in Mathematica. It generates a neural representation of a scene from multiple 2D observations, learns a continuous radiance function, and reconstructs or synthesizes new views. The notebook includes data preprocessing, neural network training, visualization, and rendering.<br>
 🔗 **Code:** [Coming soon](##)  
 #### 🔧 Tech Stack  
 `Wolfram Mathematica` 
