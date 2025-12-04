@@ -265,7 +265,7 @@ Focus: Software engineering
 - **French** (advanced)  
 - **English** (advanced)  
 - **Mandarin** (intermediate)
-- **Fulani** (native)
+- **Fulani** (advanced)
 - **Wolof** (advanced)
 
 ---
