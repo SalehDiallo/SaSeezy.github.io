@@ -129,7 +129,7 @@ It includes synthetic data generation, training/test split, tree construction wi
 
 ### 🔹 Decision Trees & Random Forests From Scratch with Entropy, Information Gain, Bootstrapping and Performance Analysis
 
-This project implements a full decision tree and random forest classifier **from scratch** using the Iris dataset.  
+This work implements a full decision tree and random forest classifier **from scratch** using the Iris dataset.  
 It includes entropy computation, best-split search via midpoints, recursive tree building, prediction logic, depth–accuracy analysis, custom bootstrapping and feature subsampling, and evaluation of random forest performance under different hyperparameters.
 
 **Code:** [Decision Tree & Random Forests](https://github.com/zalediallo/IFT6390/blob/main/Lab7_Trees_2024.ipynb)
@@ -139,9 +139,70 @@ It includes entropy computation, best-split search via midpoints, recursive tree
 
 ---
 
-### 🔹
+### 🔹 Bayesian Networks with pgmpy
+
+This task demonstrates how to build and analyze **Bayesian Networks** using the `pgmpy` library.  
+It includes defining directed graphical models, adding conditional probability tables (CPDs), visualizing graphs using Graphviz, performing probabilistic inference with **Variable Elimination**, and sampling from complex models using **Gibbs Sampling**.
+
+**Code:** [Bayesian Networks](https://github.com/zalediallo/IFT6390/blob/main/R%C3%A9seaux_Bay%C3%A9siens.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `matplotlib` • `raphviz` • `pgmpy` • `pygraphviz`
 
 ---
+
+### 🔹 AdaBoost From Scratch with Decision Stumps
+
+This work implements **AdaBoost from scratch** using decision stumps as weak learners.  
+It covers stump-based prediction, weighted error computation, alpha updating, iterative boosting, and aggregated predictions.  
+The notebook includes synthetic 2D data visualization, decision-boundary plotting, precision evaluation, and application to the Breast Cancer dataset for real-world classification.
+
+**Code:** [AdaBoost](https://github.com/zalediallo/IFT6390/blob/main/boosting.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `matplotlib` • `numpy` • `pandas` • `sklearn`
+
+---
+
+### 🔹 Deep Learning with JAX & Flax: CNN Architecture, Training Pipeline, Data Augmentation & CIFAR-10 Evaluation
+
+This task demonstrates how to build, train, and evaluate a full **Convolutional Neural Network using JAX, Flax, and Optax**.  
+It covers:
+
+- Installing **JAX (CPU/GPU)**, **Flax**, and **Optax**
+- Building a custom `Flax_CNN` with convolutions, pooling, dense layers, and dropout
+- Creating a full training pipeline with:
+  - JIT-compiled training and testing loops  
+  - Cross-entropy loss  
+  - Adam optimizer  
+  - Accuracy tracking  
+  - Metric logging (loss + accuracy curves)
+- Loading and preprocessing **CIFAR-10** with TFDS
+- Visualizing samples and training evolution (loss and accuracy)
+- Applying **data augmentation** (flips, random rotations)
+- Re-training the model with augmented data and comparing results
+
+The work includes full training loops (with dropout RNGs), visualization utilities, and augmentation-enabled dataset pipelines.
+
+**Code:** [CNN using JAX 1](https://github.com/zalediallo/IFT6390/blob/main/Labo_6_R%C3%A9seaux_de_convolution.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `matplotlib` • `numpy` • `jax` • `tensorflow`
+
+---
+
+### 🔹 Building and Training Neural Networks in JAX from Scratch
+This project explores deep learning with JAX by building and training MLPs and CNNs using autodiff, JIT compilation, and Flax. It includes training on MNIST and CIFAR-10, using Optax for optimization, as well as techniques for data augmentation, visualization, and performance evaluation.
+
+
+**Code:** [CNN using JAX 2](https://github.com/zalediallo/IFT6390/blob/main/Labo_5_R%C3%A9seaux_de_neurones.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `numpy` • `jax` 
+
+---
+
+
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
