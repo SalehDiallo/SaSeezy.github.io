@@ -248,13 +248,13 @@ Mini-projects showcasing LLM usage in apps:
 ---
 
 ## 🎓 Education
-**Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)**  — *Canada*
+**Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)**  — *Canada* <br>
 Focus: AI, Data Science, Computer Vision, Machine Learning
 
-**Computer Science — [Northwestern Ploytechnical University](https://en.nwpu.edu.cn/)**  — *China*
+**Computer Science — [Northwestern Ploytechnical University](https://en.nwpu.edu.cn/)**  — *China* <br>
 Focus: Computer vsion, Object detection & recognition, Deep learning
 
-**Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)**  — *Senegal*
+**Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)**  — *Senegal* <br>
 Focus: Software enginnering
 
 
@@ -271,7 +271,7 @@ Focus: Software enginnering
 ---
 
 ## 📫 Contact
-📧 **mamadou.saliou.diallo.5@umontreal.ca**   
+📧 *mamadou.saliou.diallo.5@umontreal.ca*  
 ---
 
 ⭐ *If you like my work, feel free to star my repositories!😁*
