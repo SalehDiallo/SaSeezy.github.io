@@ -201,7 +201,7 @@ Here we focus on model interpretability, outlier detection, and feature engineer
 `Python` • `eli5` • `matplotlib` • `numpy` • `scikit-learn` • `seaborn` • `shap`
 
 ### 🔹 Fine-Tuning Transformers for Sentiment Analysis & Chatbot Training
-This task explores fine-tuning modern transformer models for two tasks: sentiment classification with DistilBERT and chatbot creation using OpenLLaMA-2-3B. We compare training strategies, evaluate performance with metrics and confusion matrices, and document results in a structured report. The goal is to develop practical skills in adapting large language models.<br>
+This task explores fine-tuning modern transformer models for two tasks: sentiment classification with DistilBERT and chatbot creation using OpenLLaMA-2-3B. We compare training strategies, evaluate performance with metrics and confusion matrices, and document results in a structured report. The goal is to develop practical skills in fine-tuning large language models.<br>
 🔗 **Code:** [Feature Engineering](https://github.com/zalediallo/datasciences/blob/main/hw6.zip) 
 #### 🔧 Tech Stack  
 `Python` • `transformers` • `matplotlib` • `numpy` • `scikit-learn` • `numpy` • `transformers` • `DistilBERT` • `LLaMA` 
