@@ -224,7 +224,7 @@ This project consists of creating an interactive bubble chart displaying the rel
 #### 🔧 Tech Stack  
 `JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `JSON` 
 
-### 🔹 nteractive Scatter Map of Montreal’s Pedestrian Streets(INF8808)
+### 🔹 Interactive Scatter Map of Montreal’s Pedestrian Streets(INF8808)
 This project involves creating an interactive scatter map that visualizes Montreal’s pedestrian streets using GeoJSON and JSON datasets. Students preprocess geographic data, plot markers positioned by longitude–latitude, display borough names on hover, and show detailed information in a panel on click. A legend and collision-avoidance force layout complete the visualization.<br>
 🔗 **Code:** [INF8808 Homework 5](https://github.com/zalediallo/INF8808/releases/tag/H5) 
 #### 🔧 Tech Stack  
