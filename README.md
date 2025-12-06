@@ -177,7 +177,7 @@ This assignment introduces data analysis using NumPy and Pandas. We implemented 
 `Python` • `Pandas` • `Numpy`
 
 ### 🔹 Audio Dataset Processing & Visualization  
-This assignment focuses on cleaning metadata, downloading audio clips, extracting segments, and building a small data-processing pipeline. We will completed Python functions, assembled a dataset, and visualized audio in a notebook. The goal was to develop practical skills in audio handling, data pipelines, and exploratory analysis.<br> 
+This assignment focuses on cleaning metadata, downloading audio clips, extracting segments, and building a small data-processing pipeline. We completed Python functions, assembled a dataset, and visualized audio in a notebook. The goal was to develop practical skills in audio handling, data pipelines, and exploratory analysis.<br> 
 🔗 **Code:** [Audio Processing](https://github.com/zalediallo/datasciences/blob/main/hw2.zip)  
 #### 🔧 Tech Stack  
 `Python` • `Pandas` • `ffmpeg` • `Numpy` • `youtube_dl` • `scipy` • `matplotlib` • `seaborn` • `tqdm` • `soundfile` • `librosa`
