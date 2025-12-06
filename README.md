@@ -87,6 +87,12 @@ The first notebook implements a **simple disparity estimator** using stereo imag
 #### 🔧 Tech Stack  
 `Wolfram Mathematica`
 
+### 🔹 Image Rectification via Homographic Transformations
+This task focuses on homography in image processing. The goal is to use both Mathematica and C++ to define and apply projective transformations (via a 3×3 matrix) to correct geometric perspective distortions in images, for example, rectifying a slanted view of a document.<br>
+**Code:** [Homography](https://github.com/zalediallo/IFT-6145-Homeworks/releases/tag/TP1)  
+#### 🔧 Tech Stack  
+`Wolfram Mathematica` • `C++`
+
 ### 🔹 Introduction to Numpy library  
 **Code:** [Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)  
 #### 🔧 Tech Stack  
