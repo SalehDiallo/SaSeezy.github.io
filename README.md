@@ -225,13 +225,13 @@ This project consists of creating an interactive heatmap using open municipal da
 `JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `Parcel` 
 
 ### 🔹 Interactive Bubble Chart Visualization of Global CO₂ Emissions and GDP(INF8808)
-This project consists of creating an interactive bubble chart displaying the relationship between GDP and CO₂ emissions per capita for the years 2000 and 2015. Circles encode population, colors represent continents, and transitions animate year changes. Students implement scales, animations, a legend, and tooltips to build a complete, interactive visualization.<br>
+This project consists of creating an interactive bubble chart displaying the relationship between GDP and CO₂ emissions per capita for the years 2000 and 2015. Circles encode population, colors represent continents, and transitions animate year changes. We implement scales, animations, a legend, and tooltips to build a complete, interactive visualization.<br>
 🔗 **Code:** [INF8808 Homework 4](https://github.com/zalediallo/INF8808/releases/tag/H4) 
 #### 🔧 Tech Stack  
 `JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `JSON` 
 
 ### 🔹 Interactive Scatter Map of Montreal’s Pedestrian Streets(INF8808)
-This project involves creating an interactive scatter map that visualizes Montreal’s pedestrian streets using GeoJSON and JSON datasets. Students preprocess geographic data, plot markers positioned by longitude–latitude, display borough names on hover, and show detailed information in a panel on click. A legend and collision-avoidance force layout complete the visualization.<br>
+This project involves creating an interactive scatter map that visualizes Montreal’s pedestrian streets using GeoJSON and JSON datasets. We preprocess geographic data, plot markers positioned by longitude–latitude, display borough names on hover, and show detailed information in a panel on click. A legend and collision-avoidance force layout complete the visualization.<br>
 🔗 **Code:** [INF8808 Homework 5](https://github.com/zalediallo/INF8808/releases/tag/H5) 
 #### 🔧 Tech Stack  
 `JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `GeoJSON` • `JSON`
